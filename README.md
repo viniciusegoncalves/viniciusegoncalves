@@ -4,7 +4,7 @@
 - 🎓 Graduando em Ciência da computação (3º semestre).
 - 🌐 Aprendendo a programar.
 - 💻 Interessado em contéudos relacionados a ciência e técnologia.
-- 🔭   Estou estudando JavaScript e seus Frameworks.
+- 🔭   Estou estudando C# e .NET.
 
 </br>
 
