@@ -1,7 +1,7 @@
         👨‍💼 Olá! me chamo Vinícius Gonçalves.
 
 - 🎓 Formado em Marketing.
-- 🎓 Graduando em Ciência da computação (3º semestre).
+- 🎓 Graduando em Ciência da computação (4º semestre).
 - 🌐 Aprendendo a programar.
 - 💻 Interessado em contéudos relacionados a ciência e técnologia.
 - 🔭   Estou estudando C# e .NET.
