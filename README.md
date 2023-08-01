@@ -13,6 +13,6 @@
 
 <p align="center">
  
-&nbsp; <a align="center" href="https://www.linkedin.com/in/vinícius-ernande/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a align="center" href="[https://www.linkedin.com/in/vinícius-ernande/](https://www.linkedin.com/in/vinicius-ernande/)" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a align="center" href="mailto:viniciusegoncalves25@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
