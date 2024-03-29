@@ -2,7 +2,7 @@
 
 - 🎓 Formado em Marketing e Graduando em Ciência da Computação
 - 💻 Interessado em contéudos relacionados a ciência e técnologia.
-- 🔭 Tecnologias: Java C# .NET HTML CSS Javascript Typescript React.js Angular.
+- 🔭 Tecnologias: Java C# Ruby.
 
 </br>
 
