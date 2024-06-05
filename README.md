@@ -1,6 +1,6 @@
         👨‍💼 Olá! me chamo Vinícius Gonçalves.
 
-- 🎓 Formado em Marketing e Graduando em Ciência da Computação
+- 🎓 Formado em Marketing e Análise e desenvolvimento de sistemas.
 - 💻 Interessado em contéudos relacionados a ciência e técnologia.
 - 🔭 Tecnologias: Java C# Ruby.
 
