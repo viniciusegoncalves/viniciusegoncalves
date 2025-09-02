@@ -2,7 +2,7 @@
 
 - 🎓 Formado em Marketing e Análise e desenvolvimento de sistemas.
 - 💻 Interessado em contéudos relacionados a ciência e técnologia.
-- 🔭 Tecnologias: Java, Kotlin, C# e seus respectivos frameworks.
+- 🔭 Tecnologias: Java, Kotlin, Go e seus respectivos frameworks.
 
 </br>
 
